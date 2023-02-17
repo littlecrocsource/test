@@ -1,3 +1,5 @@
 Some random info.
 
 Added new line.
+
+new line editted in second_branch.
